@@ -20,10 +20,7 @@ Then, edit the `tsconfig.json`:
 
 ```json
 {
-  "extends": "@gplane/tsconfig",
-  "compilerOptions": {
-    // Override here.
-  }
+  "extends": "@gplane/tsconfig"
 }
 ```
 
