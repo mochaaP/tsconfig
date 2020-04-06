@@ -15,12 +15,11 @@
     "noEmitOnError": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "outDir": "dist",
     "pretty": true,
     "skipLibCheck": true,
     "sourceMap": true,
     "strict": true,
     "stripInternal": true,
-    "target": "es2016"
+    "target": "es2017"
   }
 }
