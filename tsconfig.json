@@ -9,7 +9,7 @@
     "emitBOM": false,
     "esModuleInterop": true,
     "jsx": "react",
-    "module": "commonjs",
+    "module": "esnext",
     "moduleResolution": "node",
     "newLine": "LF",
     "noEmitOnError": true,
