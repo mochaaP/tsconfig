@@ -24,6 +24,7 @@
     "sourceMap": true,
     "strict": true,
     "stripInternal": true,
-    "target": "es2017"
+    "target": "es2017",
+    "useDefineForClassFields": true
   }
 }
