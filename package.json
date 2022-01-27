@@ -1,11 +1,12 @@
 {
   "name": "@mochaa/tsconfig",
   "description": "Shareable TypeScript compiler configuration file.",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "author": "mochaaP <npm@mochaa.ws>",
   "repository": "mochaaP/tsconfig",
   "main": "tsconfig.json",
   "private": false,
+  "publishConfig": {"access": "public"},
   "license": "MIT",
   "files": [
     "tsconfig.json"
