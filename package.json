@@ -1,9 +1,9 @@
 {
-  "name": "@gplane/tsconfig",
+  "name": "@mochaa/tsconfig",
   "description": "Shareable TypeScript compiler configuration file.",
   "version": "5.0.0",
-  "author": "Pig Fang <g-plane@hotmail.com>",
-  "repository": "g-plane/tsconfig",
+  "author": "mochaaP <npm@mochaa.ws>",
+  "repository": "mochaaP/tsconfig",
   "main": "tsconfig.json",
   "private": false,
   "license": "MIT",

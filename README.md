@@ -1,29 +1,30 @@
 # tsconfig
 
-Shareable TypeScript compiler configuration file (`tsconfig.json`) for Pig Fang's projects.
+Shareable TypeScript compiler configuration file (`tsconfig.json`) for mochaaP's projects.
 
 ## Usage
 
 Install it:
 
 ```
-npm i -D @gplane/tsconfig
+npm i -D @mochaa/tsconfig
 ```
 
 or
 
 ```
-yarn add --dev @gplane/tsconfig
+yarn add --dev @mochaa/tsconfig
 ```
 
 Then, edit the `tsconfig.json`:
 
 ```json
 {
-  "extends": "@gplane/tsconfig"
+  "extends": "@mochaa/tsconfig"
 }
 ```
 
 ## License
 
 MIT License (c) 2019-present Pig Fang
+MIT License (c) 2022-present mochaaP
